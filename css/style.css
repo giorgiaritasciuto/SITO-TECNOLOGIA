@@ -116,7 +116,7 @@ footer nav a:hover {
     padding-bottom: 10px;
     margin-left: 75px;
 }
-@media (max-width:600px){
+@media (max-width:800px){
     h1{
         padding-left: 60px;
         font-size: 25px;
