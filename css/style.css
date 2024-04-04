@@ -6,7 +6,7 @@ body{
 }
 img{
     max-width: 100%;
-    display: block;
+   
     background-color: #7bc234;
     padding-bottom: 40px;
 
@@ -122,6 +122,9 @@ footer nav a:hover {
         font-size: 25px;
         margin-top: -300px;
         padding-top: 160px; 
+    }
+    header{
+        max-width: 1500px;
     }
     section2{
         padding-left: 20px;
